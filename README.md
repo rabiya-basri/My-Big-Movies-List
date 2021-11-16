@@ -28,6 +28,7 @@ This project is built using rect-redux which to allow the user to keep track of 
 
 ### link to view project demo
 
+https://my-big-movie.netlify.app/
 
 
 
